@@ -30,6 +30,18 @@ It fetches live weather data from the OpenWeatherMap API and displays informatio
 | Logic / Functionality | JavaScript |
 | API | OpenWeatherMap API |
 
-## Snapshot of weather-app 
+
+## Preview
+
+Below is the snapshot of the implemented Weather-app
+
+<img width="704" height="250" alt="image" src="https://github.com/user-attachments/assets/92249367-5402-4421-bd96-2d238bebf2af" />
+
+<img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/552c1b43-5e87-459a-a06a-95a41db22736" />
+
+<img width="713" height="277" alt="image" src="https://github.com/user-attachments/assets/b28c5020-72de-4d47-be8a-753243c4fc5f" />
+
+
+
 
 
